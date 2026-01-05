@@ -36,7 +36,9 @@ Welcome to my portfolio website! This repository contains the source code for my
 ## [Portfolio Website Click Here =>💁‍♂️🚀](https://virendra-kanojiya.netlify.app/)
 
 ## Screenshot:
-![image]()
+![image](<img width="1085" height="772" alt="image" src="https://github.com/user-attachments/assets/63e08716-691e-4aec-9fb7-84c90dc2c058" />
+)
 
 **Feel free to explore the code and customize it to suit your needs also Like and Give Heart to `[HAMZA ZAIDI](https://github.com/viru522)` ! Happy coding!**
+
 
